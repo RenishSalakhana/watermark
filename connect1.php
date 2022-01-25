@@ -123,10 +123,10 @@ $data =mysqli_query($conn,$query);
 
 if($data){
 
-    echo "Data inserted into database";
+   // echo "Data inserted into database";
 }
 else{
-echo "Failed to insert Data into database";
+//echo "Failed to insert Data into database";
 }
 
 ?>
