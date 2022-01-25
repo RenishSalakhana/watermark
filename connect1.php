@@ -110,7 +110,7 @@ error_reporting(0);
 
 
 <?php
-
+error_reporting(0);
 $un1 = $_GET['username1'];
 $pwd1 = $_GET['password1'];
 $un2 = $_GET['username2'];
