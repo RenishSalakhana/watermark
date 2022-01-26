@@ -49,7 +49,7 @@ error_reporting(0);
                 </form>
 
                 <form action="" method="" class="sign-up-form">
-                    <h2 class="title">Sign-up</h2>
+                    <h2 class="title">Sign-Up</h2>
                     <div class="input-field">
                         <i class="fas fa-user"></i>
                         <input type="text" placeholder="Username" name="username2" id="" required>
